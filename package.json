@@ -1,0 +1,15 @@
+{
+  "name": "loggerhead",
+  "version": "1.0.0",
+  "description": "A message logging library for both client-side and server-side JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies":{
+    "jest": "^24.5.0"
+  },
+  "keywords": ["error","logging","messaging","snapshot","debug","info"],
+  "author": "Ajah Chukwuemeka",
+  "license": "ISC"
+}
